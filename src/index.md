@@ -1,6 +1,6 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
+title: Die Schachabteilung des PSV Duisburg 1920 e.v.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
