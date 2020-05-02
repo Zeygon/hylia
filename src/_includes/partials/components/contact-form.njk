@@ -3,20 +3,20 @@
 <form name="contact" method="POST" data-netlify="true" action="/thank-you" netlify-honeypot="bot-field">
   <ol class="[ field-list ]">
     <li class="[ field-list__field-group ]">
-      {{ label("What’s your name?", "name") }}
-      {{ field( "text", "name", { required: true, placeholder: "Katherine Johnson", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
+      {{ label("Ihr Name?", "name") }}
+      {{ field( "text", "name", { required: true, placeholder: "Magnus Carlsen", autocomplete: "name", autocorrect: "off", autocapitalize: "off" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What’s your email address?", "email") }}
-      {{ field( "email", "email", { required: true, placeholder: "katherine@johnson.tld", autocomplete: "email" } ) }}
+      {{ label("Ihre E-Mail-Adresse?", "email") }}
+      {{ field( "email", "email", { required: true, placeholder: "magnus@carlsen.no", autocomplete: "email" } ) }}
     </li>
     <li class="[ field-list__field-group ]">
-      {{ label("What’s on your mind?", "message") }}
+      {{ label("Ihre Anfrage?", "message") }}
       {{ textarea( "message", { required: true, autocapitalize: "sentences", spellcheck: "true" } ) }}
     </li>
     <li hidden>
       <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
     </li>
   </ol>
-  {{ button("Send message") }}
+  {{ button("Anfrage absenden") }}
 </form>

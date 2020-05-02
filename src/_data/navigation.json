@@ -6,14 +6,19 @@
       "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/PSV_DU_Schach",
-      "external": true
+      "text": "Vereinsheim",
+      "url": "/location",
+      "external": false
     },
     {
       "text": "Kontakt",
       "url": "/contact",
       "external": false
+    },
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/PSV_DU_Schach",
+      "external": true
     }
   ]
 }
