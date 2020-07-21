@@ -1,7 +1,7 @@
 ---
-title: 'Kontact'
-permalink: '/contact/index.html'
-layout: 'layouts/contact.njk'
+layout: layouts/contact.njk
+title: Kontakt
+permalink: /contact/index.html
 ---
 Sie können sich bei Fragen gerne an uns wenden.
 
