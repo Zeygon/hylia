@@ -6,4 +6,3 @@ socialImage: /images/mitchell-johnson-czrnxaiylzi-unsplash.jpg
 ---
 Sie können sich bei Fragen gerne an uns wenden.
 
-> Every pawn move is a commitment.
