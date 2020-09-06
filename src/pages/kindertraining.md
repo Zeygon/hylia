@@ -18,14 +18,13 @@ Wir bieten zwei mal pro Woche Kindertraining an.
 
   17:30 - 19:30 Uhr
 
+  ![Schachtraining für Kinder und Jugendliche](/images/trainingsfoto_datenschutz.jpg "Schachtraining für Kinder und Jugendliche")
+
 - - -
 
 Derzeit haben haben wir eine Jugendmannschaft gemeldet, welche auf einen baldigen Start der Saison wartet.
 
-
-
 Für Fragen und Absprachen bitte an unseren Jugendwart **Mathias Mroczek** wenden.
 
 mathias.mroczek@psv-schach.de
-
 Tel. & WhatsApp: +4917681798189
