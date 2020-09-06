@@ -12,6 +12,4 @@ socialImage: ""
 ---
 Willkommen bei der Schachabteilung des PSV Duisburg 1920 e.V.!
 
-
-
-Derzeit finden, unter gesundheitlichen Auflagen, reguläre Kinder- und Jugendtraining Mittwochs und am Freitag. Der reguläre Vereinsabend findet ebenfalls am Freitag statt.
+Derzeit finden, unter gesundheitlichen Auflagen, reguläre [Kinder- und Jugendtraining](psv-schach.de/training/index.html) Mittwochs und am Freitag. Der reguläre Vereinsabend findet ebenfalls am Freitag statt.
