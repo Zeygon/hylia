@@ -1,7 +1,7 @@
 {
   "showThemeCredit": false,
   "name": "PSV Duisburg",
-  "shortDesc": "Dies ist die Internetseite der Schachabteilung des PSV Duisburg",
+  "shortDesc": "Homepage der Schachabteilung des PSV Duisburg 1920 e.V.",
   "url": "https://psv-schach.de",
   "authorEmail": "info@psv-schach.de",
   "authorHandle": "@PSV_DU_Schach",
@@ -9,5 +9,5 @@
   "enableThirdPartyComments": false,
   "paymentPointer": ".",
   "faviconPath": "/images/favicon.png",
-  "maxPostsPerPage": 5
+  "maxPostsPerPage": 6
 }
