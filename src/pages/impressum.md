@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Impressum
+permalink: /impressum/index.html
 metaTitle: ""
 ---
 ## Impressum
