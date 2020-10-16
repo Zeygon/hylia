@@ -1,7 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Anmeldung
-permalink: /Anmeldung
+permalink: /Anmeldung/index.html
 ---
 Das Anmeldeformular für den Verein findet sich [hier](http://303932.webhosting75.1blu.de/PSV_Duisburg_Aufnahmeantrag_2020.docx).
 
