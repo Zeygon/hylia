@@ -21,5 +21,3 @@ socialImage: /images/mitchell-johnson-czrnxaiylzi-unsplash.jpg
     * E-Mail: [andreas.usdenski@psv-schach.de](mailto:andreas.usdenski@psv-schach.de)
   * Öffentlichkeitsarbeit: **Luca Venier**  
     * E-Mail: [luca.venier@psv-schach.de](mailto:luca.venier@psv-schach.de)
-
-## Kontaktformular
