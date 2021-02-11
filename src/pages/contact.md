@@ -1,5 +1,5 @@
 ---
-layout: layouts/contact.njk
+layout: layouts/page.njk
 title: Kontakt
 permalink: /contact/index.html
 socialImage: /images/mitchell-johnson-czrnxaiylzi-unsplash.jpg
