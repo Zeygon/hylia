@@ -31,6 +31,10 @@
     {
       "text": "Anmeldung",
       "url": "https://www.psv-schach.de/anmeldung/"
+    },
+    {
+      "url": "/jugendabteilung/",
+      "text": "Jugendabteilung"
     }
   ]
 }
