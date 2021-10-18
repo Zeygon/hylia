@@ -12,6 +12,6 @@ socialImage: ""
 ---
 Willkommen bei der Schachabteilung des PSV Duisburg 1920 e.V.!
 
-Derzeit führen wir, unter [gesundheitlichen Auflagen](http://303932.webhosting75.1blu.de/Hygienekonzept_PSV_Schach.pdf), regelmäßige [Kinder- und Jugendtrainings](https://www.psv-schach.de/training/index.html) mittwochs und freitags durch und nehmen, nach Absprache, gerne neue Kinder und Jugendliche auf.
+Derzeit führen wir, unter [gesundheitlichen Auflagen](http://303932.webhosting75.1blu.de/Hygienekonzept_PSV_Schach.pdf), regelmäßige [Kinder- und Jugendtrainings](https://www.psv-schach.de/training/index.html) freitags und, nach Absprache, auch Sonntags durch und nehmen, gerne neue Kinder und Jugendliche auf.
 
 Unser regulärer Vereinsabend findet ebenfalls am Freitag, im Anschluss an das Kinder- und Jugendtraining, ab 19 Uhr statt.
