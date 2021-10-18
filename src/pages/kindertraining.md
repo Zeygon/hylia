@@ -9,7 +9,7 @@ socialImage: /images/trainingsfoto_datenschutz.jpg
 ---
 ## Training
 
-Wir bieten zweimal pro Woche Kindertraining in unserem [Vereinsheim in der Gustav-Adolf-Straße](https://www.psv-schach.de/location) an.
+Wir bieten zweimal pro Woche Kindertraining in unserem [Vereinsheim in der Gustav-Adolf-Straße 65](https://www.psv-schach.de/location) an.
 
 | Wochentag | Uhrzeit           |
 | --------- | ----------------- |
