@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Kalender
+permalink: /kalender/index.html
 ---
 ## Regelmäßige Termine
 
