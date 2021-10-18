@@ -22,6 +22,12 @@ socialImage: /images/mitchell-johnson-czrnxaiylzi-unsplash.jpg
   * Öffentlichkeitsarbeit: **Luca Venier**  
     * E-Mail: [luca.venier@psv-schach.de](mailto:luca.venier@psv-schach.de)
 
+## Twitter
+
+Hier befindet sich unser Twitteraccount auf dem es (unregelmäßig) Ankündigungen gibt.
+
+https://twitter.com/PSV_DU_Schach
+
 ## Anmeldung
 
 Das Anmeldeformular für den Verein findet sich [hier (docx)](http://303932.webhosting75.1blu.de/PSV_Duisburg_Aufnahmeantrag_2020.docx).
