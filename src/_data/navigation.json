@@ -5,6 +5,10 @@
       "url": "/training/"
     },
     {
+      "text": "Kalender",
+      "url": "/kalender"
+    },
+    {
       "text": "Kontakt",
       "url": "/contact",
       "external": false
