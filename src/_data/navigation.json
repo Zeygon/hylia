@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
-      "external": false
-    },
-    {
-      "text": "Vereinsheim",
-      "url": "/location",
-      "external": false
-    },
-    {
-      "url": "/jugendabteilung",
-      "text": "Jugendabteilung"
-    },
-    {
       "text": "Kindertraining",
       "url": "/training/"
     },
