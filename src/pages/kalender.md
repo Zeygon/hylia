@@ -9,4 +9,4 @@ Unser Vereinsabend findet jeden Freitag Abend statt. Wir beginnen mit einem Kind
 
 ## Kalender
 
-<iframe width="100%" height="800" src="https://cloud.psv-schach.de/index.php/apps/calendar/embed/woB2Xi4xn9PMAkdH-FspGYE9mKQ6bFgC3"></iframe>
+<iframe width="100%" height="1024" src="https://cloud.psv-schach.de/index.php/apps/calendar/embed/woB2Xi4xn9PMAkdH-FspGYE9mKQ6bFgC3"></iframe>
