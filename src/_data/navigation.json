@@ -14,12 +14,12 @@
       "external": false
     },
     {
-      "text": "Impressum",
-      "url": "/impressum/"
-    },
-    {
       "text": "Mannschaften",
       "url": "/mannschaften/"
+    },
+    {
+      "text": "Impressum",
+      "url": "/impressum/"
     }
   ]
 }
