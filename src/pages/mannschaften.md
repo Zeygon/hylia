@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Mannschaften
+metaTitle: Mannschaften
 ---
 Der PSV nimmt zur Zeit (Saison 2021/22) mit 4 Erwachsenenmannschaften, einer U12- und einer U14-Mannschaft am Spielbetrieb teil.
 
