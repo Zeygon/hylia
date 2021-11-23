@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Erste Mannschaft erreicht Poikalfinale
+title: Erste Mannschaft erreicht Pokalfinale
 date: 2021-11-23T12:18:12.951Z
 ---
 Unsere erste Mannschaft hat am vergangenen Freitag das Finale des Bezirksviererpokals durch einen 3:1-Sieg gegen die SF Brett vor`m Kopp 1 erreicht.
