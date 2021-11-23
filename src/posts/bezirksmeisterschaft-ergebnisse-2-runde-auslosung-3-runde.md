@@ -7,6 +7,6 @@ Hier ist die Auslosung für die 3.Runde am Freitag, den 10.12.2021 um 19:15 Uhr 
 
 ![](/images/runde-3.png "Runde 3")
 
-Die Partie Kellermann - Mroczek wird am Sonntag, den 5.12. nachgeholt.
+Die Partie Kellermann - Mroczek wird am Sonntag, den 5.12.2021 nachgeholt.
 
 MM
