@@ -19,12 +19,12 @@ Und hier der Endstand vom Tandemturnier (die Ali-Asse müsst ihr selber entschl�
 
 ![](/images/endstand-tandemturnier.jpeg)
 
-Hier noch ein paar Bilder von den Preisen und Pokalen:
+Hier noch ein paar Bilder von den Preisen und Pokalen :
+
+![](/images/preise-1.jpeg)
+
+![](/images/preise-2.jpeg)
+
+
 
 ![](/images/preise-3.jpeg)
-
-
-
-
-
-Hier sind die Endstände beider Turniere und ein paar Bilder von den Preisen und Pokalen, die bei der anschliessenden Siegerehrung gegen Mitternacht ausgegeben wurden:
