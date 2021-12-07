@@ -5,9 +5,23 @@ date: 2021-12-07T11:07:46.098Z
 ---
 Die vierte und bereits vorletzte Runde der Bezirkseinzelmeisterschaft findet wieder bei uns am kommenden Freitag, den 10.12. statt.
 
-Hier sind die Paarungen:
+Die Ergebnisse der 3.Runde: 
 
+Kellermann - Mroczek 0:1
 
+Germann - Buyken 0:1
+
+Usdenski - Venier 1:0
+
+Vortmeier - Tural 1/2:1/2
+
+Bhana - Baader 1:0
+
+Hampel - Bos 1/2:1/2
+
+Balik - Abdurrahimov 1:0
+
+Hier sind die Paarungen der 4.Runde:
 
 <!--StartFragment-->
 
