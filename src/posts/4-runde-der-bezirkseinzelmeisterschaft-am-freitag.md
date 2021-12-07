@@ -7,7 +7,7 @@ Die vierte und bereits vorletzte Runde der Bezirkseinzelmeisterschaft findet wie
 
 Die Ergebnisse der 3.Runde: 
 
-Kellermann - Mrooczek 0:1
+Kellermann - Mroczek 0:1
 
 Germann - Buyken 0:1
 
@@ -20,10 +20,6 @@ Bhana - Baader 1:0
 Hampel - Bos 1/2:1/2
 
 Balik - Abdurrahimov 1:0
-
-
-
-
 
 Hier sind die Paarungen der 4.Runde:
 
