@@ -16,3 +16,5 @@ Hier ist der Endstand des Turnieres ( teilweise mit Künstlernamen ;) ):
 ![](/images/endstand-nikolausturnier-jugend-2021.png)
 
 ![]()
+
+MM
