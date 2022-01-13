@@ -18,3 +18,7 @@ und hier die aktuelle Tabelle:
 https://nrw.svw.info/ergebnisse/show/2021/3901/tabelle/
 
 Am Sonntag, den 30.01. steht um 10 Uhr steht nun das Lokalderby zuhause gegen den klaren Tabellenführer OSC Rheinhausen auf dem Programm.
+
+
+
+MM
