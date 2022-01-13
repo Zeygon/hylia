@@ -16,3 +16,7 @@ Hier der Endstand der U16: <http://www.schachjugend-niederrhein.de/index.php/ein
 und der U12:
 
 http://www.schachjugend-niederrhein.de/index.php/einzelmeisterschaften/2021-2022/u12
+
+
+
+MM
