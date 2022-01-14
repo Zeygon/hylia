@@ -11,7 +11,7 @@ In der Halbzeitpause gab es reichlich Pizza für alle.
 
 Bei der anschließenden Siegerehrung bekamen alle Spieler einen Preis.
 
-Hier ist der Endstand des Turnieres ( teilweise mit Künstlernamen ;) ):
+Hier ist der Endstand des Turnieres ( teilweise mit Künstlernamen ;-) ):
 
 ![](/images/endstand-nikolausturnier-jugend-2021.png)
 
