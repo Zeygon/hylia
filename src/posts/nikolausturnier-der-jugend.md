@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Nikolausturnier der Jugend
-date: 2022-01-13T15:43:10.310Z
+date: 2022-01-13T18:43:00.000Z
 ---
 Am Samstag , den 11.12.2021 fand das Nikolausturnier für unsere Jugendlichen statt.
 
