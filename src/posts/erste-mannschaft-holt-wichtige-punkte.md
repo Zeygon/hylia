@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Erste Mannschaft holt wichtige Punkte
-date: 2022-01-13T16:11:56.167Z
+date: 2022-01-14T16:11:56.167Z
 ---
 Am vergangenen Sonntag reisten wir zum dritten Spiel der Regionalligasaison nach Hilden. 
 
