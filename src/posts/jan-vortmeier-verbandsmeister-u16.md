@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Jan Vortmeier Verbandsmeister U16 !
-date: 2022-01-13T16:29:38.964Z
+date: 2022-01-14T10:58:50.503Z
 ---
 In der 2. Woche der Weihnachtsferien fanden in der Jugendherberge in Kranenburg die Verbandsmeisterschaften der Altersklassen U12 bis U18 statt.
 
