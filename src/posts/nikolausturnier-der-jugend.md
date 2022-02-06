@@ -15,6 +15,4 @@ Hier ist der Endstand des Turnieres, wie es mittlerweile schon Tradition ist, te
 
 ![](/images/endstand-nikolausturnier-jugend-2021.png)
 
-![]()
-
 MM
