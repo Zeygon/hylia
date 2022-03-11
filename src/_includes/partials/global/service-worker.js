@@ -67,6 +67,10 @@ self.addEventListener('fetch', evt => {
     return;
   }
 
+  if (evt.request.url === 'https://www.psv-schach.de/'){
+    return;
+  }
+
   evt.respondWith(
     caches.match(evt.request).then(cachedResponse => {
       // Item found in cache so return
