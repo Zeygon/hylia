@@ -20,3 +20,7 @@ Mit seiner Veranstaltung **„Faszination Schach“** wird das **CityPalais**
 Dann wird von 10.00 bis 20.00 Uhr ein reichhaltiges Programm angeboten. Im Mittelpunkt des Events stehen Kinder und Jugendliche. Von 10.00 bis 15.00 Uhr werden in einen bunten Parcours Kindergärten und Schul-klassen an das Spiel herangeführt. Bereits **über 73.000 Kinder** kamen, um das Programm des größten Großmeisters der Welt zu erleben. Nach der Einführung in das königliche Spiel  ist **Showtime** angesagt. **Simultanschach** mit **deutschen Jugendmeistern, Nationalspielern, Olympiateilnehmern, internationalen Meisterinnen, Großmeistern, Meistertrainern und sogar Weltmeistern** sorgen mit Show-Wettkämpfen wie „**Schlag den Großmeister**“ im Handicap-, und Konditionsblitz für Spaß und Bewegung.
 
 Das mehrfach ausgezeichnete Lehrprogramm „**Fritz & Fertig**“ ist ebenfalls mit von der Partie. Im **Blitz-Masters** winken **zahlreiche Gewinne**. Auch für Senioren ist Programm. **Schach für Groß und Klein in allen Facetten**. Es besteht die Möglichkeit sich über die Angebote an den jeweiligen Standorten zu informieren, die **Vereine, der Schachbezirk Duisburg und der Schachbund Nodrhein-Westfalen** präsentieren sich und stellen Trainingsangebote vor Ort vor. Zudem gibt es die Möglichkeit zum Austausch zwischen der **Schulbehörde, Schachvereinen, Trainern und dem Kompetenzzentrum Duisburg für Begabungs-und Begabtenförderung.**
+
+
+
+**MM**
