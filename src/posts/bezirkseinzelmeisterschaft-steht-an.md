@@ -12,3 +12,5 @@ Die Runden starten jeweils um 19:15 Uhr.
 Gespielt wird über 7 Runden im Schweizer System, die weiteren Termine sind:
 
 30.09., 21.10., 04.11., 18.11., 02.12. und 16.12.2022.
+
+MM
