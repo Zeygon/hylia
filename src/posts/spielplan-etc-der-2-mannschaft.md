@@ -1,8 +1,8 @@
 ---
 layout: layouts/post.njk
-title: Spielplan etc. der 2.Mannschaft
+title: Spielpläne etc. unserer Mannschaften
 date: 2022-09-20T13:43:14.665Z
 ---
-Die Ergebnisse etc. unserer 2.Mannschaft sind im NRW-Ergebnisportal immer noch nicht einzusehen. Auf der Seite  des Schachverbandes Niederrhein findet man aber die alle wichtigen Informationen:
+Die Spielpläne und Tabellen unserer Mannschaften sind zum Teil noch nicht wieder im Ergebnisportal einzusehen. Ich habe aber alle Links zu den Mannschaftsergebnissen unter "Mannschaften" eingetragen , irgendwo finden sich alle aktuellen Ergebnisse.
 
-<https://www.nsv1901.de/spielbetrieb/verbandsklasse-gruppe-1/>
+MM
