@@ -17,3 +17,5 @@ Tisch	TNr	Teilnehmer	Punkte	-	TNr	Teilnehmer	Punkte	Ergebnis
 6		Tokic, Leonard		-	Kellermann, Nicolas	 wird nachgespielt 
 7		Abdurrahimov, Rovshan	-		Vortmeier, Jan		0 - 1
 8		Venier, Luca		-	Boesenberg, Benedikt		1 - 0
+
+MM
