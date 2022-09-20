@@ -4,27 +4,24 @@ title: Mannschaften
 permalink: /mannschaften/index.html
 metaTitle: Mannschaften
 ---
-Der PSV nimmt in der Saison 2022/23 mit 3 Erwachenenmannschaften und 3 Jugendmannschaften (+U20 Teams, das aber erst im  Frühjahr `23 auf Bezirksebene) am Spielbetrieb teil.
+Der PSV nimmt in der Saison 2022/23 mit 3 Erwachsenenmannschaften und 3 Jugendmannschaften (+U20 Teams, das aber erst im  Frühjahr `23 auf Bezirksebene) am Spielbetrieb teil.
 
 Hier sind die Links zu den Ergebnisseiten:
 
-https://nrw.svw.info/ergebnisse/show/2022/4183/
 
-[1.Mannschaft (NRW-Klasse)] (https://ergebnisdienst.schachbund.de/bedh.php?liga=nrw-k2>)
+[1.Mannschaft (NRW-Klasse)](https://ergebnisdienst.schachbund.de/bedh.php?liga=nrw-k2>)
 
-2.Mannschaft (Verbandsklasse):
+[2.Mannschaft (Verbandsklasse):](https://www.nsv1901.de/spielbetrieb/verbandsklasse-gruppe-1/>)
 
-<https://www.nsv1901.de/spielbetrieb/verbandsklasse-gruppe-1/>
+[3. Mannschaft (Bezirksklasse):](https://nrw.svw.info/ergebnisse/show/2022/4183/>)
 
-3. Mannschaft (Bezirksklasse):
+[Bezirks-Viererpokal  ](https://nrw.svw.info/ergebnisse/show/2022/4179/>)
 
-<https://nrw.svw.info/ergebnisse/show/2022/4183/>
+[U16 (Verbandsliga):](https://nrw.svw.info/ergebnisse/show/2022/4209/>)
 
-U16 (Verbandsliga):
+[U12 (Verbandsliga):](https://nrw.svw.info/ergebnisse/show/2022/4203/>)
 
-<https://nrw.svw.info/ergebnisse/show/2022/4209/>
-
-U12 (Verbandsliga):
+[U10 - Verbandsmeisterschaft](https://nrw.svw.info/ergebnisse/show/2022/4205/>)
 
 
 
