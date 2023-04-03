@@ -13,8 +13,8 @@ Wir bieten zweimal pro Woche Kindertraining in unserem [Vereinsheim in der Gusta
 
 | Wochentag | Uhrzeit           |
 | --------- | ----------------- |
-| Freitags  | 17:30 - 19:30 Uhr |
-| Sonntags  | 14:00 - 16:00 Uhr |
+| Freitags  | 17:30 - 19:00 Uhr |
+| Sonntags  | 14:30 - 16:30 Uhr |
 
   ![Schachtraining für Kinder und Jugendliche](/images/trainingsfoto_datenschutz.jpg "Schachtraining für Kinder und Jugendliche")
 
