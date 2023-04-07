@@ -11,4 +11,4 @@ A﻿n Sonntagen findet offenes Jugendtraining von 14:30 Uhr bis 16:30 Uhr statt.
 
 ## Kalender
 
-<iframe width="100%" height="1200" src="https://dateien.psv-schach.de/index.php/apps/calendar/p/DwJTA8Y3WJ3XTXow"></iframe>
+<iframe width="100%" height="1200" src="https://dateien.psv-schach.de/index.php/apps/calendar/embed/DwJTA8Y3WJ3XTXow"></iframe>
