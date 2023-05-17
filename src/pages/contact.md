@@ -36,7 +36,7 @@ https://twitter.com/PSV_DU_Schach
 
 ## Anmeldung
 
-Das Anmeldeformular für den Verein findet sich [hier (PDF)](https://dateien.psv-schach.de/index.php/s/SKaBx5BYiqdddze) und  [hier (docx)](https://dateien.psv-schach.de/index.php/s/zDgP9QQcWLM6MrL).
+Das Anmeldeformular für den Verein findet sich [hier (PDF)](https://dateien.psv-schach.de/index.php/s/SKaBx5BYiqdddze).
 
 Die Gebühren betragen 8 € im Monat für eine Vollmitgliedschaft und der ermäßigte Beitrag für Kinder, Schüler und Studenten beträgt 4 € im Monat.
 
