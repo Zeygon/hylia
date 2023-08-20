@@ -7,20 +7,30 @@ socialImage: /images/mitchell-johnson-czrnxaiylzi-unsplash.jpg
 ## Unsere Ansprechpartner
 
 ### Allgemeine Anfragen
-  * Abteilungsleiter: **Erwin Spitzer**
-    * E-Mail: [erwin.spitzer@psv-schach.de](mailto:erwin.spitzer@psv-schach.de)
-  * stellv. Abteilungsleiter: **Goran Atanasovski**
-    * E-Mail: [goran.atanasovski@psv-schach.de](mailto:goran.atanasovski@psv-schach.de)
-    * Telefon und WhatsApp: [+491735890663](tel:+491735890663)
+
+* Abteilungsleiter: **Goran Atanasovski**
+
+  * E-Mail: [](mailto:erwin.spitzer@psv-schach.de)[goran.atanasovski@psv-schach.de](mailto:goran.atanasovski@psv-schach.de)
+  * T﻿elefon und WhatsApp: [+491735890663](tel:+491735890663)
+* stellv. Abteilungsleiter: **Josef Brüggemann**
+
+  * E-Mail: [brueggemann.josef@gmx.de](mailto:brueggemann.josef@gmx.de)
+
 ### Kinder- und Jugendtraining
-  * Jugendwart: **Mathias Mroczek**
-    * E-Mail: [mathias.mroczek@psv-schach.de](mailto:mathias.mroczek@psv-schach.de)
-    * Tel., WhatsApp: +491735890663
+
+* Jugendwart: **Mathias Mroczek**
+
+  * E-Mail: [mathias.mroczek@psv-schach.de](mailto:mathias.mroczek@psv-schach.de)
+  * Tel., WhatsApp: +491735890663
+
 ### Presse- und Öffentlichkeitsarbeit
-  * Öffentlichkeitsarbeit: **Andreas Usdenski** 
-    * E-Mail: [andreas.usdenski@psv-schach.de](mailto:andreas.usdenski@psv-schach.de)
-  * Öffentlichkeitsarbeit: **Luca Venier**  
-    * E-Mail: [luca.venier@psv-schach.de](mailto:luca.venier@psv-schach.de)
+
+* Öffentlichkeitsarbeit: **Andreas Usdenski** 
+
+  * E-Mail: [andreas.usdenski@psv-schach.de](mailto:andreas.usdenski@psv-schach.de)
+* Öffentlichkeitsarbeit: **Luca Venier**  
+
+  * E-Mail: [luca.venier@psv-schach.de](mailto:luca.venier@psv-schach.de)
 
 ## Unser Vereinsheim
 
