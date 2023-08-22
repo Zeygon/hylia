@@ -25,6 +25,10 @@ V﻿erbände:
 
 [F﻿IDE(Weltschachbund)](https://www.fide.com)
 
+Thema Wertungszahlen:
+
+D﻿WZ-Liste des PSV Duisburg
+
 W﻿ichtige Ergebnisseiten:
 
 S﻿chachvereine im Bezirk Duisburg:
