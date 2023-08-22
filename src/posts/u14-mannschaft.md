@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: U14-Mannschaft
 date: 2023-08-22T17:17:36.980Z
 ---
-U﻿nsere U14-Mannschaft startet bereits am 03.09. in Monheim und am 10.09. zuhause gegen Solingen in die Saison. Gespielt wird jeweils um 11 Uhr. Gespielt wird in Vierermannschaften.
+U﻿nsere U14-Mannschaft (Jahrgang 2010 und jünger) startet bereits am 03.09. in Monheim und am 10.09. zuhause gegen Solingen in die Saison. Gespielt wird jeweils um 11 Uhr. Gespielt wird in Vierermannschaften.
 
 D﻿en kompletten Spielplan findet ihr unter
 
@@ -42,3 +42,5 @@ H﻿ier ist unsere komplette Aufstellung:
 > 29. Mia-Daniele Kösewitz
 >
 > L﻿inks zur Tabelle etc. folgen auf der Seite "Mannschaften", sobald diese verfügbar sind.
+>
+> M﻿M
