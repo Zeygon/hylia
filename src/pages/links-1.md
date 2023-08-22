@@ -25,8 +25,6 @@ V﻿erbände:
 
 [F﻿IDE(Weltschachbund)](https://www.fide.com)
 
-
-
 W﻿ichtige Ergebnisseiten:
 
 S﻿chachvereine im Bezirk Duisburg:
@@ -40,3 +38,5 @@ S﻿chachnachrichten:
 T﻿aktiktraining:
 
 S﻿chachturnierkalender:
+
+V﻿ereinsfinder:
