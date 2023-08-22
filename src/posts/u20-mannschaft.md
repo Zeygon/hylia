@@ -7,14 +7,13 @@ N﻿ach dem Aufstieg in der letzten Saison spielt unsere U20-Mannschaft in der U
 
 H﻿ier wird in Sechsermannschaften gespielt, Spieltag ist immer der Samstag um 15 Uhr.
 
-U﻿nsere Gegner werden sein: Düsseldorfer SK II, Oberbilker SV I, SC Erkrath I, SF Düsseldorf-Süd I, SF Gerresheim I, SG Solingen III und SW Remscheid I.
-
 S﻿pieltage sind der 09.09.2023, 28.10.2023, 18.11.2023., 09.12.2023, 20.01.2024., 09.03.2024 und der 04.05.2024.
-D﻿en genauen Spielplan veröffentliche ich hier, sobald ich ihn in Erfahrung gebracht habe.
+
+D﻿ie Ergebnisse, Aufstellungen etc. gibt es bei ChessResults.com:
+
+<https://chess-results.com/tnr788610.aspx?lan=0>
 
 H﻿ier ist die Aufstellung:
-
-
 
 1. Jan Vortmeier 
 2. Maksym Tsyhanenko
@@ -30,13 +29,6 @@ H﻿ier ist die Aufstellung:
 12. Elias El Maaloumi
 13. Rafael Moskwa
 
-
-A﻿lle anderen Jugendlichenkönnen in der U20-Bezirksliga spielen, wenn es soweit ist, aber auch in der 1.Mannschaft zweimal als Ersatz aushelfen.
-
-
-
-
-
-
+A﻿lle anderen Jugendlichen können in der U20-Bezirksliga spielen, wenn es soweit ist, aber auch in der 1.Mannschaft zweimal als Ersatz aushelfen.
 
 M﻿M
