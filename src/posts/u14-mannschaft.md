@@ -11,44 +11,34 @@ D﻿en kompletten Spielplan findet ihr unter
 
 H﻿ier ist unsere komplette Aufstellung:
 
-
-
-<!--StartFragment-->
-
 > 1. Jan Pehla
->
 > 2. Adrian Elert
->
 > 3. Jakob Rohmann
->
-> 4. Yousha Wakaf\
-> 5. Nikoloz Kuprashvili\
-> 6. Elias El Maaloumi\
-> 7. Johann Rohmann\
+> 4. Yousha Wakaf
+> 5. Nikoloz Kuprashvili
+> 6. Elias El Maaloumi
+> 7. Johann Rohmann
 > 8. Eugeniu Circhlean
->
 > 9. Jacob Gurevits
->
-> 10. Franz Hanyu Tu\
-> 11. Solomiya Miller\
-> 12. Tommy Le\
-> 13. Sinan Levin Leye\
-> 14. Jon Uka\
-> 15. Rion Uka\
-> 16. Artem Kolko\
-> 17. Luca Müschen\
-> 18. Vincent Plötz\
-> 19. Julian Heuser\
-> 20. Lily Heuser\
-> 21. Srihan Joshi\
-> 22. Mandy Le\
-> 23. Jasmin Jaques\
-> 24. Viktor Pushylin\
-> 25. Mia Kösewitz\
-> 26. Iven Schuppmann\
-> 27. Andi Shala\
+> 10. Franz Hanyu Tu
+> 11. Solomiya Miller
+> 12. Tommy Le
+> 13. Sinan Levin Leye
+> 14. Jon Uka
+> 15. Rion Uka
+> 16. Artem Kolko
+> 17. Luca Müschen
+> 18. Vincent Plötz
+> 19. Julian Heuser
+> 20. Lily Heuser
+> 21. Srihan Joshi
+> 22. Mandy Le
+> 23. Jasmin Jaques
+> 24. Viktor Pushylin
+> 25. Mia Kösewitz
+> 26. Iven Schuppmann
+> 27. Andi Shala
 > 28. Omer-Din Tursunovic
->
 > 29. Mia-Daniele Kösewitz
-
-<!--EndFragment-->
+>
+> L﻿inks zur Tabelle etc. folgen auf der Seite "Mannschaften", sobald diese verfügbar sind.
