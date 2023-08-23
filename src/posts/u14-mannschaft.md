@@ -41,6 +41,4 @@ H﻿ier ist unsere komplette Aufstellung:
 > 28. Omer-Din Tursunovic
 > 29. Mia-Daniele Kösewitz
 >
-> L﻿inks zur Tabelle etc. folgen auf der Seite "Mannschaften", sobald diese verfügbar sind.
->
 > M﻿M
