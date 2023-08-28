@@ -8,4 +8,9 @@ A﻿m Sonntag, dem 27. August 2023, hat die SG Meiderich-Ruhrort ihr alljährlic
 
 ![Die PSV-Vertretung beim Sommerturnier](/images/platz1-edited.jpeg "Die PSV-Vertretung beim Sommerturnier")
 
+<figure>
+	<img src="platz1-edited.jpeg" alt="Die PSV-Vertretung beim Sommerturnier" style="width:80%;"/>
+	<figcaption>Die PSV-Vertretung beim Sommerturnier</figcaption>
+</figure>
+
 Beitrag der SG Meiderich-Ruhrort: [Volles Haus bei unserem Sommerturnier](https://sg-mr-schach.de/volles-haus-bei-unserem-sommerturnier/)
