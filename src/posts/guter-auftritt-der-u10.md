@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Guter Auftritt der U10.
+title: Guter Auftritt der U10
 date: 2023-09-01T12:26:24.018Z
 ---
 A﻿m vergangenen Wochenende spielt unsere U10-Mannschaft an einem einzigen Wochenende quasi die ganze Saison auf Verbandsebene aus.\
@@ -18,4 +18,4 @@ D﻿ie kompletten Einzel- und Mannschaftsergebnisse findet ihr hier:
 
 H﻿ier noch ein Bild von unserer Mannschaft am Sonntag:
 
-![](src/images/u10-sonntag.jpg)
+![](/images/u10-sonntag.jpg)
