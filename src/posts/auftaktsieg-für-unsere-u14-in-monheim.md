@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: Auftaktsieg für unsere U14 in Monheim
+socialImage: ""
 date: 2023-09-06T09:45:23.916Z
 ---
 A﻿m letzten Sonntag startete unsere neugebildete U14-Mannschaft beim SC Monheim/Baumberg in die Verbandsliga-Saison.
@@ -13,8 +14,6 @@ A﻿m kommenden Sonntag geht es zuhause gegen den Topfavoriten SG Solingen.
 
 [u﻿nd die aktuelle Tabelle:](http://sjnr.de/index.php/mannschaftsmeisterschaften/2023-2024/u14-jugendmannschaft/vorgruppe-1?view=rangliste&liga=12)
 
-
-
 M﻿M
 
-![]()
+![](/images/u14-in-monheim.jpg)
