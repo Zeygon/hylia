@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: Erste Mannschaft gewinnt Sausonauftakt in Kaarst!
+title: Erste Mannschaft gewinnt Saisonauftakt in Kaarst!
 date: 2023-09-13T19:42:18.454Z
 ---
 
