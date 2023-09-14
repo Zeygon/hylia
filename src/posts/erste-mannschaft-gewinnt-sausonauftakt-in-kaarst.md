@@ -18,3 +18,5 @@ In dieser Königsindisch-Stellung ist **12. ...Sxe4!?** eine interessante Idee, 
 An den Brettern 5 und 8 kamen Florian bzw. Erwin aus der Eröffnung ein wenig in Bedrängnis, konnten ihre Gegner später aber austricksen und ebenfalls volle Punkte einfahren. Anschließend kam auch Andreas am sechsten Brett zu einem Sieg, nachdem sein um mehr als 250 DWZ höher gewertete Gegner sich einen Patzer in einem Endspiel mit jeweils zwei Türmen und einem Springer leistete. Den Schlusspunkt setzte Gerd mit einem komfortablen Remis an Brett 4.
 
 Mit diesem doch sehr deutlichen Sieg haben wir unseren Anspruch bekräftigt, in dieser Liga ganz oben mitzuspielen und vielleicht sogar den direkten Wiederaufstieg zu schaffen. Als nächstes spielen wir am 22. Oktober auswärts gegen die zweite Mannschaft des SK Turm Krefeld.
+
+Zur Ergebnisseite geht es [hier](https://www.nsv1901.de/spielbetrieb/regionalliga/).
