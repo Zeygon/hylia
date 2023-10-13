@@ -15,4 +15,6 @@ N﻿ach 7 Runden sah der Endstand wie folgt aus:
 
 D﻿ie nächste Runde startet bereits heute Abend um 19:30, diesmal wird Blitzschach gespielt (3+2).
 
+M﻿M
+
 <!--EndFragment-->
