@@ -13,10 +13,6 @@ D﻿en Jugendpreis gewann Milad Tuma.
 
 N﻿ach 7 Runden sah der Endstand wie folgt aus:
 
-
-
-![](src/images/triathlon-rapid-20230929.jpg)
-
-
+![](/images/triathlon-rapid-20230929.jpg)
 
 D﻿ie nächste Runde startet bereits heute Abend um 19:30, diesmal wird Blitzschach gespielt (3+2).
