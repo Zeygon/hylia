@@ -3,7 +3,7 @@ layout: layouts/post.njk
 title: Ergebnisse 1.Runde Triathlon
 date: 2023-10-13T12:58:57.607Z
 ---
-![]()
+
 
 A﻿m Freitag , den 29.September fand die erste Runde unserer neuen Turnierserie statt, gespielt wurde Schnellschach mit 10 Minuten für die Partie plus 5 Sekunden pro Zug.
 
