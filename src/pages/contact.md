@@ -21,7 +21,7 @@ socialImage: /images/mitchell-johnson-czrnxaiylzi-unsplash.jpg
 * Jugendwart: **Mathias Mroczek**
 
   * E-Mail: [mathias.mroczek@psv-schach.de](mailto:mathias.mroczek@psv-schach.de)
-  * Tel., WhatsApp: +491735890663
+  * Tel., WhatsApp: +4917681798189
 
 ### Presse- und Öffentlichkeitsarbeit
 
