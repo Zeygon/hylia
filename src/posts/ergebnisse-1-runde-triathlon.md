@@ -11,7 +11,7 @@ E﻿rfreulicherweise waren direkt 18 Teilnehmer am Start. E﻿s gewann unser Gas
 
 N﻿ach 7 Runden sah der Endstand wie folgt aus:
 
-![](blob:https://www.psv-schach.de/c1fb61e9-4dc9-46ac-b124-7335468fc0ac)
+![](/images/triathlon-rapid-20230929.jpg)
 
 D﻿ie nächste Runde startet bereits heute Abend um 19:30, diesmal wird Blitzschach gespielt (3+2).
 
