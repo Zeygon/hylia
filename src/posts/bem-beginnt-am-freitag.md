@@ -18,17 +18,11 @@ Der Schachbezirk Duisburg veranstaltet ab dem 20. Oktober 2023 die für alle Dui
  Termine: 
 
 20. Oktober 2023, 19:00 Uhr 
-
-3. November 2023, 19:00 Uhr 
-
-17. November 2023, 19:00 Uhr 
-
-01. Dezember 2023, 19:00 Uhr 
-
-15. Dezember 2023, 19:00 Uhr 
-
-12. Januar 2024, 19:00 Uhr 
-
+21. November 2023, 19:00 Uhr 
+22. November 2023, 19:00 Uhr 
+23. Dezember 2023, 19:00 Uhr 
+24. Dezember 2023, 19:00 Uhr 
+25. Januar 2024, 19:00 Uhr 
 26. Januar 2024, 19:00 Uhr 
 
 Spielort: Vereinsheim des PSV Duisburg Gustav-Adolf-Straße 65 47057 Duisburg 
@@ -40,7 +34,3 @@ Bedenkzeit: Die Bedenkzeit beträgt 100 Minuten je Spieler:in und Partie sowie 3
 Preise: 1. Platz: 80€ 2. Platz: 60€ 3. Platz: 40€
 
 <!--EndFragment-->
-
-H﻿ier ist die komplette Ausschreibung:
-
-[src/images/bezirkseinzelmeisterschaft_202324.pdf](src/images/bezirkseinzelmeisterschaft_202324.pdf)
