@@ -1,6 +1,7 @@
 ---
 layout: layouts/page.njk
 title: Mannschaften 2021/22
+permalink: /mannschaften-2021-22
 ---
 [1. Mannschaft (Regionalliga)](https://nrw.svw.info/ergebnisse/show/2021/3901/)
 
